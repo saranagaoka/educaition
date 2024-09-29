@@ -1,0 +1,8 @@
+db.*
+env
+venv
+__pycache__
+.idea
+.vscode
+media
+settings_local.py
